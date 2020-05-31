@@ -1,2 +1,2 @@
-# Introduction-to-MATLAB-vanderbilt-university
-The repository contains MATLAB assignments and is showcasing my solutions to the problems
+# Introduction-to-Programming-with-MATLAB-solutions-
+Solutions to the Coursera course - Introduction to Programming with MATLAB 2019
